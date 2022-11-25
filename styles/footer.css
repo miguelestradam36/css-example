@@ -1,0 +1,37 @@
+/*
+Footer HTML tag modified by CSS
+*/
+footer {
+
+}
+    /*
+    Div HTML tag inside footer are modified by this CSS
+    */
+    footer div {
+        width:auto;
+    }
+        footer div form input[type="submit"]::hover {
+
+        }
+    footer .credits {
+
+    }
+        footer .credit div {
+
+        }
+            footer .credit div a::before, footer .credit div a::after {
+
+            }
+            footer .credits div p {
+
+            }
+            footer .credits div h3 {
+
+            }
+    
+/* nested media query */
+@media (max-width: 200px) {
+    p {
+       color: green;
+    }
+}
